@@ -31,7 +31,11 @@
                 "dist/jplayer/jquery.jplayer.js"
             ],
             "files": [
-                "dist"
+                "dist/jplayer/jquery.jplayer.min.js",
+                "dist/jplayer/jquery.jplayer.swf",
+                "dist/add-on/*.js",
+                "dist/popcorn/*.js",
+                "dist/skin/*"
             ],
             "shim": {
                 "deps": ["jquery"]
