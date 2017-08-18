@@ -44,7 +44,7 @@
                 "dist/skin/pink.flag/image/*.gif",
                 "dist/skin/pink.flag/image/*.jpg",
                 "dist/skin/pink.flag/image/*.png",
-                "dist/skin/ping.flag/mustache/*.html"
+                "dist/skin/pink.flag/mustache/*.html"
             ],
             "shim": {
                 "deps": ["jquery"]
