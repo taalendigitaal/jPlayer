@@ -35,7 +35,16 @@
                 "dist/jplayer/jquery.jplayer.swf",
                 "dist/add-on/*.js",
                 "dist/popcorn/*.js",
-                "dist/skin/*"
+                "dist/skin/blue.monday/css/*.css",
+                "dist/skin/blue.monday/image/*.gif",
+                "dist/skin/blue.monday/image/*.jpg",
+                "dist/skin/blue.monday/image/*.png",
+                "dist/skin/blue.monday/mustache/*.html",
+                "dist/skin/pink.flag/css/*.css",
+                "dist/skin/pink.flag/image/*.gif",
+                "dist/skin/pink.flag/image/*.jpg",
+                "dist/skin/pink.flag/image/*.png",
+                "dist/skin/ping.flag/mustache/*.html"
             ],
             "shim": {
                 "deps": ["jquery"]
